@@ -1,1 +1,1 @@
-I have added text to the file.
+I have removed text from the file.
