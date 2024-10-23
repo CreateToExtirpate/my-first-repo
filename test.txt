@@ -1,1 +1,3 @@
-I have removed text from the file. Im changing this in the branch!
+I have removed text from the file.
+
+And I changed it.
